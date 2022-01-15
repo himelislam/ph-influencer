@@ -406,6 +406,9 @@ footer{
     .third-section{
         grid-template-columns: repeat(2, 1fr);
     }
+    .fourth-box{
+        display: block;
+    }
     .more h2{
         margin-right: 30px;;
     }
